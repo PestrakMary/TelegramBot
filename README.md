@@ -9,27 +9,20 @@
 
 1. my-php-myadmin
 http://localhost:8082 - phpMyAdmin для просмотра состояния бд 
-***
-Пользователь: root
-*** 
-Пароль: root
+* Пользователь: root
+* Пароль: root
 
 2. city-service-app
 http://localhost:8084/swagger-ui.html#! - Rest-API для выполнения crud-операций с бд
 
 3. mysql-db2 - MySQL бд для хранения информации о городах
-*** 
-Логин: root
-*** 
-Пароль: root
+* Логин: root
+* Пароль: root
 
 TelegramBot: 
-*** 
-Имя: GuideBot
-*** 
-Имя пользователя: @guide_bot
-*** 
-Токен: 1291598720:AAEDgB-q0zb6yQp_H6xi9B3TLIGKnSPYAHU
+* Имя: GuideBot
+* Имя пользователя: @guide_bot
+* Токен: 1291598720:AAEDgB-q0zb6yQp_H6xi9B3TLIGKnSPYAHU
 
 Команды:
 1. /start                          - приветственное сообщение
